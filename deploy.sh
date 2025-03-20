@@ -5,5 +5,5 @@
     docker login -u dhamaya2004 -p dckr_pat_-YClUH8lgEpTNN-4tTgigUnjZfE
     docker tag test1 dhamaya2004/new
     docker push dhamaya2004/new
-    docker-compose up d
+    docker-compose up -d
     
