@@ -3,4 +3,4 @@ services:
   react-capstone:
     image: "test"
     ports:
-      - "86:80"
+      - "85:80"
